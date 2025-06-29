@@ -9,3 +9,9 @@ Create a Python program that implements a singly linked list using Object-Orient
 # Data-Science-Celebal Week-3
 
 Take Any dataset of your choice and do the visualization
+
+# Data-Science-Celebal Week-4
+
+Conduct an in-depth Exploratory Data Analysis on a complex dataset. Focus on understanding data distributions, identifying missing values, detecting outliers, and uncovering relationships between variables. Utilize visualizations like histograms, box plots, and heatmaps to support your findings.
+Resources :
+https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda
