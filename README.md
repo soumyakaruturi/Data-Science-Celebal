@@ -21,3 +21,7 @@ House Price Prediction Data Preprocessing and feature engineering
 # Data-Science-Celebal Week-6
 
 Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score. Implement hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. Analyze the results to select the best-performing model.
+
+# Data-Science-Celebal Week-7
+
+Develop a web application using Streamlit to deploy a trained machine learning model. The app should allow users to input data, receive predictions, and understand model outputs through visualizations. This task will help you learn how to make your models accessible and interactive.
